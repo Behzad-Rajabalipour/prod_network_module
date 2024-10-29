@@ -1,6 +1,6 @@
 .git
 .terraform
-.pem
-.pub
-.hcl
-.tfstate
+*.pem
+*.pub
+.terraform.lock.hcl
+*.tfstate
