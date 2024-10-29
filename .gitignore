@@ -1,0 +1,6 @@
+.git
+.terraform
+.pem
+.pub
+.hcl
+.tfstate
