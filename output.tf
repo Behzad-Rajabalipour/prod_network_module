@@ -12,6 +12,6 @@ output "vpc_id" {
 }
 
 output "vpc_cidr" {
-  value = aws_vpc.main.vpc_cidr
+  value = aws_vpc.main.cidr_block
 }
 
